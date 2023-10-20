@@ -9,15 +9,15 @@
     <div class="container">
       <div class="row">
         <?php
-        include "incs/adlogistics_subirana.inc";
-        include "incs/adlogistics_mercafruits.inc";
-        include "incs/adlogistics_bruned.inc";
-        include "incs/adlogistics_joprimsa.inc";
-        include "incs/adcrm_balart.inc";
-        include "incs/adcrm_mercafruits.inc";
-        include "incs/adcrm_fradera.inc";
-        include "incs/adcrm_bruned.inc";
-        include "incs/adpalet_escandell.inc";
+        include "incs/adlogistics_subirana.php";
+        include "incs/adlogistics_mercafruits.php";
+        include "incs/adlogistics_bruned.php";
+        include "incs/adlogistics_joprimsa.php";
+        include "incs/adcrm_balart.php";
+        include "incs/adcrm_mercafruits.php";
+        include "incs/adcrm_fradera.php";
+        include "incs/adcrm_bruned.php";
+        include "incs/adpalet_escandell.php";
         ?>
         
         
